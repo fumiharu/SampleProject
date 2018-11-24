@@ -1,0 +1,10 @@
+{
+"root":[{
+        "sectionTitle":"UITesting on web view",
+        "detailSection":"Execute js test"
+        },
+        {
+        "sectionTitle":"UITesting on table view",
+        "detailSection":"Execute custom cell test"
+        }]
+}
